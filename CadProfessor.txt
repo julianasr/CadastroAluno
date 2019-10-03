@@ -1,7 +1,11 @@
 Cadastro de Professor
 
-M�tricula: 0100
+Mátricula: 0100
 
 Nome: Agenor Antonio Dernandes 
 
 E-mail: asilva@nada.com
+
+Telefone: (11)91234-5678
+
+Disciplinas que leciona: Automação e Gestão de Projetos
