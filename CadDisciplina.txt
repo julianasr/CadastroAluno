@@ -1,5 +1,7 @@
 Cadastro de Disciplina
 
-C�digo: 010011
+Código: 010011
 
-Disciplina: automa��o
+Disciplina: automação
+
+Curso: Ciência da Computação
