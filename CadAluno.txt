@@ -3,3 +3,5 @@ Cadastro de Aluno
 
 RA: 315879568
 Nome: Marcos Antonio Silva
+Telefone: (11) 98765-4321
+E-mail: marcosantonio@silva.com.br
