@@ -1,7 +1,7 @@
 Cadastro de Aluno
 
 
-RA: 315879568
-Nome: Marcos Antonio Silva
+RA: 910123094
+Nome: Everton Figueiredo
 Telefone: (11) 98765-4321
-E-mail: marcosantonio@silva.com.br
+E-mail: victor_fachetti@live.com
