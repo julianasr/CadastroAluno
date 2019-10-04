@@ -1,5 +1,5 @@
 Cadastro de Disciplina
 
-Código: 010011
-
-Disciplina: automação
+CÃ³digo: Xer>123
+Disciplina: Automacao
+Campus disponiveis: Vila Maria, Memorial, Vergueiro, Santo Amaro.
